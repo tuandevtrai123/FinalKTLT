@@ -1,0 +1,15 @@
+/Users/nguyengiatuan/Desktop/FINALTEST_KTLT/CAU2/bin/Debug/net5.0/CAU2.deps.json
+/Users/nguyengiatuan/Desktop/FINALTEST_KTLT/CAU2/bin/Debug/net5.0/CAU2.runtimeconfig.json
+/Users/nguyengiatuan/Desktop/FINALTEST_KTLT/CAU2/bin/Debug/net5.0/CAU2.runtimeconfig.dev.json
+/Users/nguyengiatuan/Desktop/FINALTEST_KTLT/CAU2/bin/Debug/net5.0/CAU2.dll
+/Users/nguyengiatuan/Desktop/FINALTEST_KTLT/CAU2/bin/Debug/net5.0/ref/CAU2.dll
+/Users/nguyengiatuan/Desktop/FINALTEST_KTLT/CAU2/bin/Debug/net5.0/CAU2.pdb
+/Users/nguyengiatuan/Desktop/FINALTEST_KTLT/CAU2/obj/Debug/net5.0/CAU2.csproj.AssemblyReference.cache
+/Users/nguyengiatuan/Desktop/FINALTEST_KTLT/CAU2/obj/Debug/net5.0/CAU2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyengiatuan/Desktop/FINALTEST_KTLT/CAU2/obj/Debug/net5.0/CAU2.AssemblyInfoInputs.cache
+/Users/nguyengiatuan/Desktop/FINALTEST_KTLT/CAU2/obj/Debug/net5.0/CAU2.AssemblyInfo.cs
+/Users/nguyengiatuan/Desktop/FINALTEST_KTLT/CAU2/obj/Debug/net5.0/CAU2.csproj.CoreCompileInputs.cache
+/Users/nguyengiatuan/Desktop/FINALTEST_KTLT/CAU2/obj/Debug/net5.0/CAU2.dll
+/Users/nguyengiatuan/Desktop/FINALTEST_KTLT/CAU2/obj/Debug/net5.0/ref/CAU2.dll
+/Users/nguyengiatuan/Desktop/FINALTEST_KTLT/CAU2/obj/Debug/net5.0/CAU2.pdb
+/Users/nguyengiatuan/Desktop/FINALTEST_KTLT/CAU2/obj/Debug/net5.0/CAU2.genruntimeconfig.cache
